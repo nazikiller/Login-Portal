@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+*{
+      font-family: Open Sans ;
+    
+}
+body{
+	background: #19123b;
+}
+.navbar-brand{
+	color: whitesmoke;
+}
+.card{
+	box-sizing: border-box;
+	border-top: 5px solid rgb(176, 106, 252);
+	
+	background: #212042;
+	color: whitesmoke;
+}
+.form-control{
+	background:#212042 ;
+	border: 1px solid #57557a ;
+	border-radius: 2px;
+	box-shadow: none;
+	color: #fff;
+
+}
+.nav-link{
+	color: whitesmoke;
+}
+.nav-link:hover{
+	color:#57557a ;
+}
+.nav-link:focus{
+	color:whitesmoke ;
+}
+
+.navbar-brand:hover{
+	color: whitesmoke;
+}
+.form-control:focus{
+	background:#212042 ;
+	border: 1px solid #57557a ;
+	
+	box-shadow: none;
+
+}
+.sign {
+	text-decoration: none;
+	margin-left: 4px;
+
+}
+.sign:hover{
+	color:#57557a ;
+}
+.nav-item: hover{
+	color:#57557a ;
+
+}
